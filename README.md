@@ -22,6 +22,7 @@ I ended up learning a lot during the programming and became more versed in C and
 ## What's next for Ice Programming Language
 I plan on adding functions and recursive function calling, then I may proceed on to custom structure types. After doing these thing, I plan on editing my implementation to make it cleaner and more readable.
 
-This was a project made at the MLH Hacathon hths.hacks() that won.
+## Honors and Awards
 
+This was a project made at the MLH Hacathon hths.hacks() that won.
 The link to the devpost is here: https://devpost.com/software/ice-programming-language
