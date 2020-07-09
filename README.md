@@ -1,5 +1,11 @@
 # Ice-Programming-Language
 
+
+## Honors and Awards
+
+This was a project made at the MLH Hacathon hths.hacks() that won.
+The link to the devpost is here: https://devpost.com/software/ice-programming-language
+
 ## Inspiration
 I recently started programming in low-level languages like C and C++ recently which is completely what I am not used as I program in intermediate to high level languages like Java, JavaScript, and Python. This project required hours of research to understand for the day of the hackathon and during the hackathon. I recently became fed-up with C, although its really simple, it just took so many lines and characters to do simple programs. During the empty and cold streets due to COVID-19 this idea froze like ice in my head and so I started to create my own programming language that would be very basic and still have machine code like performance through a JIT (Just In Time Compiler). I wanted to take all the good from C and make it more modern.
 
@@ -21,8 +27,3 @@ I ended up learning a lot during the programming and became more versed in C and
 
 ## What's next for Ice Programming Language
 I plan on adding functions and recursive function calling, then I may proceed on to custom structure types. After doing these thing, I plan on editing my implementation to make it cleaner and more readable.
-
-## Honors and Awards
-
-This was a project made at the MLH Hacathon hths.hacks() that won.
-The link to the devpost is here: https://devpost.com/software/ice-programming-language
